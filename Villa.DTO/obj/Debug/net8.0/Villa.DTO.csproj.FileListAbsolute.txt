@@ -1,0 +1,11 @@
+C:\Users\alper\source\repos\Villa\Villa.DTO\bin\Debug\net8.0\Villa.DTO.deps.json
+C:\Users\alper\source\repos\Villa\Villa.DTO\bin\Debug\net8.0\Villa.DTO.dll
+C:\Users\alper\source\repos\Villa\Villa.DTO\bin\Debug\net8.0\Villa.DTO.pdb
+C:\Users\alper\source\repos\Villa\Villa.DTO\obj\Debug\net8.0\Villa.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\Villa\Villa.DTO\obj\Debug\net8.0\Villa.DTO.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\Villa\Villa.DTO\obj\Debug\net8.0\Villa.DTO.AssemblyInfo.cs
+C:\Users\alper\source\repos\Villa\Villa.DTO\obj\Debug\net8.0\Villa.DTO.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Villa\Villa.DTO\obj\Debug\net8.0\Villa.DTO.dll
+C:\Users\alper\source\repos\Villa\Villa.DTO\obj\Debug\net8.0\refint\Villa.DTO.dll
+C:\Users\alper\source\repos\Villa\Villa.DTO\obj\Debug\net8.0\Villa.DTO.pdb
+C:\Users\alper\source\repos\Villa\Villa.DTO\obj\Debug\net8.0\ref\Villa.DTO.dll
