@@ -16,7 +16,6 @@ namespace Villa.WebUI.Controllers
 			_mapper=mapper;
 			_contactService=contactService;
 		}
-
 		public async Task<IActionResult> Index()
 		{
 			var values = await _contactService.TGetListAsync();

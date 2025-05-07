@@ -39,7 +39,7 @@ namespace Villa.DataAccess.Repositories
 
 		public async Task<T> GetByIdAsync(int id)
 		{
-			return await _context.Set<T>().FindAsync();
+			return await _context.Set<T>().FindAsync(id);
 		}
 
 		public async Task<List<T>> GetFilteredListAsync(Expression<Func<T, bool>> expression)
