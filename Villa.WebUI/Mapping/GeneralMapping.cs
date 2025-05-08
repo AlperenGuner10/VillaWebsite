@@ -7,6 +7,7 @@ using Villa.DTO.Dtos.FeatureDtos;
 using Villa.DTO.Dtos.MessageDtos;
 using Villa.DTO.Dtos.ProductDtos;
 using Villa.DTO.Dtos.QuestDtos;
+using Villa.DTO.Dtos.SubHeaderDtos;
 using Villa.DTO.Dtos.VideoDtos;
 using Villa.Entity.Entities;
 
@@ -51,6 +52,10 @@ namespace Villa.WebUI.Mapping
 			CreateMap<ResultVideoDto, Video>().ReverseMap();
 			CreateMap<CreateVideoDto, Video>().ReverseMap();
 			CreateMap<UpdateVideoDto, Video>().ReverseMap();
+
+			CreateMap<ResultSubHeaderDto, SubHeader>().ReverseMap();
+			CreateMap<CreateSubHeaderDto, SubHeader>().ReverseMap();
+			CreateMap<UpdateSubHeaderDto, SubHeader>().ReverseMap();
 		}
 	}
 }
