@@ -13,6 +13,7 @@ namespace Villa.DTO.Dtos.FeatureDtos
 		public string ImageUrl { get; set; }
 		public string Square { get; set; }
 		public string Contract { get; set; }
+		public string Payment { get; set; }
 		public string Safety { get; set; }
 	}
 }

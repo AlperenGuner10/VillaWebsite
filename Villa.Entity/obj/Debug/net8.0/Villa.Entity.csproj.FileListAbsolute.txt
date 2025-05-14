@@ -9,3 +9,4 @@ C:\Users\alper\source\repos\Villa\Villa.Entity\obj\Debug\net8.0\Villa.Entity.dll
 C:\Users\alper\source\repos\Villa\Villa.Entity\obj\Debug\net8.0\refint\Villa.Entity.dll
 C:\Users\alper\source\repos\Villa\Villa.Entity\obj\Debug\net8.0\Villa.Entity.pdb
 C:\Users\alper\source\repos\Villa\Villa.Entity\obj\Debug\net8.0\ref\Villa.Entity.dll
+C:\Users\alper\source\repos\Villa\Villa.Entity\obj\Debug\net8.0\Villa.Entity.csproj.AssemblyReference.cache

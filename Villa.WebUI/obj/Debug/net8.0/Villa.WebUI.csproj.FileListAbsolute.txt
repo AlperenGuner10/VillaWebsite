@@ -272,3 +272,8 @@ C:\Users\alper\source\repos\Villa\Villa.WebUI\bin\Debug\net8.0\Villa.DTO.dll
 C:\Users\alper\source\repos\Villa\Villa.WebUI\bin\Debug\net8.0\Villa.DTO.pdb
 C:\Users\alper\source\repos\Villa\Villa.WebUI\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\alper\source\repos\Villa\Villa.WebUI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\alper\source\repos\Villa\Villa.WebUI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\alper\source\repos\Villa\Villa.WebUI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\alper\source\repos\Villa\Villa.WebUI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\alper\source\repos\Villa\Villa.WebUI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\alper\source\repos\Villa\Villa.WebUI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

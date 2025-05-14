@@ -1,4 +1,5 @@
 using FluentValidation;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 using Villa.Business.Abstract;
@@ -7,6 +8,7 @@ using Villa.DataAccess.Abstract;
 using Villa.DataAccess.Context;
 using Villa.DataAccess.EntityFramework;
 using Villa.DataAccess.Repositories;
+using Villa.Entity.Entities;
 using Villa.WebUI.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,6 +18,8 @@ builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
 builder.Services.AddDbContext<VillaContext>(options=>
 	options.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnection")));
+
+builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<VillaContext>().AddDefaultTokenProviders();
 
 builder.Services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
 
